@@ -35,7 +35,7 @@
 
 
     Private Sub LinkLabel1_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel1.LinkClicked
-        MsgBox("Origami Game 1.0" & vbNewLine & vbNewLine & "Made by Timothy Iles", MsgBoxStyle.OkOnly, "About Origami Game")
+        MsgBox("Origami Game" + Application.ProductVersion & vbNewLine & vbNewLine & "Made by WindowsLogic Productions", MsgBoxStyle.OkOnly, "About Origami Game")
     End Sub
 
 
