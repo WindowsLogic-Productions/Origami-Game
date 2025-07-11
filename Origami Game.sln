@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.36217.24
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Origami Game", "Origami Game.csproj", "{9B1E8A1B-9403-4737-AAC1-DFB8FB300074}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Origami Game", "Origami Game\Origami Game.csproj", "{9B1E8A1B-9403-4737-AAC1-DFB8FB300074}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
