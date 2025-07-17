@@ -55,6 +55,7 @@
             this.LinkLabel2.TabIndex = 12;
             this.LinkLabel2.TabStop = true;
             this.LinkLabel2.Text = "Reset";
+            this.LinkLabel2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LinkLabel2_LinkClicked);
             // 
             // LinkLabel1
             // 
@@ -65,6 +66,7 @@
             this.LinkLabel1.TabIndex = 11;
             this.LinkLabel1.TabStop = true;
             this.LinkLabel1.Text = "About";
+            this.LinkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LinkLabel1_LinkClicked);
             // 
             // OrigamiButton4
             // 
@@ -74,6 +76,7 @@
             this.OrigamiButton4.TabIndex = 10;
             this.OrigamiButton4.Text = "3";
             this.OrigamiButton4.UseVisualStyleBackColor = true;
+            this.OrigamiButton4.Click += new System.EventHandler(this.OrigamiButton4_Click);
             // 
             // OrigamiButton3
             // 
@@ -83,6 +86,7 @@
             this.OrigamiButton3.TabIndex = 9;
             this.OrigamiButton3.Text = "2";
             this.OrigamiButton3.UseVisualStyleBackColor = true;
+            this.OrigamiButton3.Click += new System.EventHandler(this.OrigamiButton3_Click);
             // 
             // OrigamiButton2
             // 
@@ -92,6 +96,7 @@
             this.OrigamiButton2.TabIndex = 8;
             this.OrigamiButton2.Text = "4";
             this.OrigamiButton2.UseVisualStyleBackColor = true;
+            this.OrigamiButton2.Click += new System.EventHandler(this.OrigamiButton2_Click);
             // 
             // OrigamiButton
             // 
@@ -101,6 +106,7 @@
             this.OrigamiButton.TabIndex = 7;
             this.OrigamiButton.Text = "1";
             this.OrigamiButton.UseVisualStyleBackColor = true;
+            this.OrigamiButton.Click += new System.EventHandler(this.OrigamiButton_Click);
             // 
             // Main
             // 

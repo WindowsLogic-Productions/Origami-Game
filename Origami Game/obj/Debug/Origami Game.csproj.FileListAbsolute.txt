@@ -1,0 +1,10 @@
+J:\Projects\Origami-Game\Origami Game\bin\Debug\Origami Game.exe
+J:\Projects\Origami-Game\Origami Game\bin\Debug\Origami Game.pdb
+J:\Projects\Origami-Game\Origami Game\obj\Debug\Origami Game.csproj.AssemblyReference.cache
+J:\Projects\Origami-Game\Origami Game\obj\Debug\Origami_Game.Main.resources
+J:\Projects\Origami-Game\Origami Game\obj\Debug\Origami_Game.Properties.Resources.resources
+J:\Projects\Origami-Game\Origami Game\obj\Debug\Origami Game.csproj.GenerateResource.cache
+J:\Projects\Origami-Game\Origami Game\obj\Debug\Origami Game.csproj.CoreCompileInputs.cache
+J:\Projects\Origami-Game\Origami Game\obj\Debug\Origami Game.exe
+J:\Projects\Origami-Game\Origami Game\obj\Debug\Origami Game.pdb
+J:\Projects\Origami-Game\Origami Game\bin\Debug\Origami Game.exe.config
